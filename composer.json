@@ -1,0 +1,21 @@
+{
+    "name": "asus/lrv_intro",
+    "description": "Домашнее задание по Composer",
+    "type": "project",
+    "require-dev": {
+        "psr/log": "^3.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Asus\\LrvIntro\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "CoolpaK"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
